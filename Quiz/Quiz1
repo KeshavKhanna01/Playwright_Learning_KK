@@ -1,0 +1,2 @@
+Question 1: Which TypeScript data type is used to represent both integer and floating-point values?
+Ans: Number- Since it is inherited from JavaScript and it doesn't distinguish between integer, float or decimal 
